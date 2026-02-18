@@ -10,6 +10,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Activities
 1. Kickoff meeting with stakeholders and delivery team
+   - Use the [Cross-Functional Kickoff Checklist](octoacme-kickoff-checklist.md) to ensure all roles and decisions are covered
 2. Create prioritized backlog with acceptance criteria
 3. Estimate scope (T-shirt sizing or story points)
 4. Define Definition of Done (DoD)
@@ -36,7 +37,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held (see [Kickoff Checklist](octoacme-kickoff-checklist.md))
+- [ ] All key roles identified and engaged (see [Roles RACI Matrix](octoacme-roles-raci.md))
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented

@@ -18,7 +18,14 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- UX/UI Designer: design user flows and interfaces, ensure usability.
+- Technical Lead/Architect: guide technical vision and architecture.
+- Business Analyst: capture and clarify business requirements.
+- Support/Customer Success: champion the customer, manage feedback and escalations.
 - Stakeholders: provide inputs and approvals.
+
+For detailed role descriptions and interactions, see [OctoAcme Roles and Personas](octoacme-roles-and-personas.md).
+For activity ownership and accountability, see [OctoAcme Roles RACI Matrix](octoacme-roles-raci.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
